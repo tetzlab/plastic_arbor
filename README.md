@@ -1,6 +1,6 @@
 # Plastic Arbor
 
-This repository contains a list of example implementations of synaptic plasticity models, from single-synapse to network models. The implementations use the [Arbor](https://arbor-sim.org/) simulator library with recent extensions for synaptic plasticity mechanisms (article submitted).
+This repository contains a list of example implementations of synaptic plasticity models, from single-synapse to network models. The implementations use the [Arbor](https://arbor-sim.org/) simulator library with recent extensions for synaptic plasticity mechanisms (see [here](https://doi.org/10.48550/arXiv.2411.16445)).
 
 You may contact us for any questions [here](https://app.gitter.im/#/room/#arbor-sim_community:gitter.im) in the chat.
 
