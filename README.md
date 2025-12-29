@@ -13,3 +13,4 @@ You may contact us for any questions [here](https://app.gitter.im/#/room/#arbor-
 * [Induction of early- and late-phase plasticity at a single synapse with synaptic tagging and capture](https://github.com/jlubo/arbor_2N1S)
 * [Memory formation and consolidation in recurrent spiking neural networks with synaptic tagging and capture](https://github.com/jlubo/arbor_network_consolidation)
 * [Memory formation and consolidation in recurrent networks of spiking multi-compartment neurons with synaptic tagging and capture](https://github.com/jlubo/arbor_network_consolidation_mc)
+* [Busyring network benchmark](https://github.com/arbor-sim/arbor/pull/2489)
